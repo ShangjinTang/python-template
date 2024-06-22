@@ -10,7 +10,6 @@ packages = [{ include = "*", from = "src" }]
 python = "^3.10"
 
 [tool.poetry.group.dev.dependencies]
-nox = "^2024.4.15"
 pytest = "^8.2.2"
 
 [build-system]
